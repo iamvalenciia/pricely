@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment-specific files
+.Python
+env/
+venv/
+ENV/
+.venv/
+pyvenv.cfg
+*.egg-info/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.egg
+
+# Distribution / packaging
+build/
+dist/
+sdist/
+*.whl
+*.tar.gz
+MANIFEST
+
+# PyInstaller related
+*.spec
+build
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+
+# VS Code related
+.vscode/
+
+# PyCharm related
+.idea/
+
+# SonarLint related
+.sonarlint/
+
+# MyPy cache
+.mypy_cache/
+
+# Other common files
+*.log
+*.bak
+*.swp
+*.swo
+.*.sw?
+~*
+\#*\#
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
